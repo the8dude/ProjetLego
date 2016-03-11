@@ -1,0 +1,25 @@
+.pic01
+{
+	background-image: url('http://cache.lego.com/r/www/r/minifigures/-/media/franchises/minifigures%202014/logo.svg?l.r2=470455226p.png?l.r2=1660862940');
+}
+
+.style
+{
+	padding-left: 28px;
+}
+
+.divgrid
+{
+	border: ridge 1px;
+}
+
+.divcard
+{
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.divcardbg
+{
+	background-image: url('http://41.media.tumblr.com/54a7f414d6f3d9ea5f0f0a517178daf0/tumblr_nwprvuTy9g1rir6lho1_500h.jpg');
+}
