@@ -1,0 +1,25 @@
+.logo
+{
+	width: 100%;
+}
+
+select
+{
+	width: 100%;
+}
+.social
+{
+	margin-left: 8px;
+}
+
+#facebook
+{
+	width: 28px; 
+	height: 28px;
+}
+
+.hypertextfooter
+{
+	color: rgb(75, 103, 160);
+	text-decoration: none;
+}
