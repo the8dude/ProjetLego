@@ -1,0 +1,49 @@
+Cahier des charges application mobile Android :
+
+→ Affichage des différentes séries : 1 à 16 + SS1 + SS2 + LM + JO Team GB (+ Football Team Allemande):
+		→ Référence de la série + Titre
+		→ Visuel du sachet
+		→ Notice de la série
+		→ Visuel de la série
+		→ Visuel de la minifig
+
+→ Système de recherche :
+		→ Menu déroulant listant série par série.
+		→ Recherche par mots-clés
+
+→ Fiche d'une minifig :
+		→ Photo de la minifig
+		→ Nom de la minifig
+		→ Numéro de la minifig dans la série
+		→ Série de la minifig
+		→ Observations : Tatage Help 
+
+
+LISTING DES SERIES:
+
+8683 Série 01
+8684 Série 02
+8803 Série 03
+8804 Série 04
+8805 Série 05
+8827 Série 06
+8831 Série 07
+8833 Série 08
+
+8909 Série Team GB
+
+71001 Série 10
+71002 Série 11
+
+71004 Série La Grande Aventure LEGO
+71005 Série Les Simpson 01
+
+71007 Série 12
+71008 Série 13
+
+71009 Série Les Simpson 02
+
+71010 Série 14 Les monstres
+71011 Série 15
+
+71012 Série Disney
